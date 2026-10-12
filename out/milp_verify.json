@@ -1,0 +1,26 @@
+{
+ "V1": {
+  "exact": 264.74,
+  "heuristic": 288.42,
+  "gap_pct": 8.942,
+  "exact_vehicles": 1,
+  "heur_vehicles": 1,
+  "routes_enumerated": 511
+ },
+ "V2": {
+  "exact": 434.08,
+  "heuristic": 465.94,
+  "gap_pct": 7.341,
+  "exact_vehicles": 1,
+  "heur_vehicles": 1,
+  "routes_enumerated": 511
+ },
+ "V3": {
+  "exact": 596.89,
+  "heuristic": 635.13,
+  "gap_pct": 6.407,
+  "exact_vehicles": 1,
+  "heur_vehicles": 1,
+  "routes_enumerated": 511
+ }
+}

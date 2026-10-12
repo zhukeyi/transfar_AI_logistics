@@ -1,0 +1,2404 @@
+{
+ "orders": [
+  {
+   "id": "O0002",
+   "store_id": "S01",
+   "tag": "常规补货",
+   "release_min": 0,
+   "lines": [
+    {
+     "sku_id": "K023",
+     "qty": 6,
+     "store_id": "S01"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 3,
+     "store_id": "S01"
+    },
+    {
+     "sku_id": "K016",
+     "qty": 1,
+     "store_id": "S01"
+    }
+   ]
+  },
+  {
+   "id": "O0005",
+   "store_id": "S03",
+   "tag": "常规补货",
+   "release_min": 3,
+   "lines": [
+    {
+     "sku_id": "K010",
+     "qty": 6,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 4,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 4,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 2,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 4,
+     "store_id": "S03"
+    }
+   ]
+  },
+  {
+   "id": "O0026",
+   "store_id": "S16",
+   "tag": "常规补货",
+   "release_min": 3,
+   "lines": [
+    {
+     "sku_id": "K011",
+     "qty": 2,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 2,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 6,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 3,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 5,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 7,
+     "store_id": "S16"
+    }
+   ]
+  },
+  {
+   "id": "O0013",
+   "store_id": "S08",
+   "tag": "常规补货",
+   "release_min": 10,
+   "lines": [
+    {
+     "sku_id": "K013",
+     "qty": 6,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K005",
+     "qty": 8,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 3,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 5,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K022",
+     "qty": 2,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K016",
+     "qty": 7,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 8,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 6,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K011",
+     "qty": 3,
+     "store_id": "S08"
+    }
+   ]
+  },
+  {
+   "id": "O0045",
+   "store_id": "S29",
+   "tag": "常规补货",
+   "release_min": 11,
+   "lines": [
+    {
+     "sku_id": "K021",
+     "qty": 2,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 7,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 1,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 2,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 2,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 5,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 6,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 1,
+     "store_id": "S29"
+    }
+   ]
+  },
+  {
+   "id": "O0006",
+   "store_id": "S04",
+   "tag": "常规补货",
+   "release_min": 12,
+   "lines": [
+    {
+     "sku_id": "K006",
+     "qty": 6,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 5,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 6,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 7,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 6,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 5,
+     "store_id": "S04"
+    }
+   ]
+  },
+  {
+   "id": "O0036",
+   "store_id": "S24",
+   "tag": "常规补货",
+   "release_min": 15,
+   "lines": [
+    {
+     "sku_id": "K009",
+     "qty": 5,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 3,
+     "store_id": "S24"
+    }
+   ]
+  },
+  {
+   "id": "O0065",
+   "store_id": "S12",
+   "tag": "紧急要货",
+   "release_min": 16,
+   "lines": [
+    {
+     "sku_id": "K016",
+     "qty": 1,
+     "store_id": "S12"
+    }
+   ]
+  },
+  {
+   "id": "O0024",
+   "store_id": "S15",
+   "tag": "常规补货",
+   "release_min": 17,
+   "lines": [
+    {
+     "sku_id": "K006",
+     "qty": 5,
+     "store_id": "S15"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 1,
+     "store_id": "S15"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 3,
+     "store_id": "S15"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 1,
+     "store_id": "S15"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 4,
+     "store_id": "S15"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 7,
+     "store_id": "S15"
+    },
+    {
+     "sku_id": "K013",
+     "qty": 6,
+     "store_id": "S15"
+    }
+   ]
+  },
+  {
+   "id": "O0038",
+   "store_id": "S25",
+   "tag": "常规补货",
+   "release_min": 19,
+   "lines": [
+    {
+     "sku_id": "K004",
+     "qty": 3,
+     "store_id": "S25"
+    },
+    {
+     "sku_id": "K011",
+     "qty": 6,
+     "store_id": "S25"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 6,
+     "store_id": "S25"
+    }
+   ]
+  },
+  {
+   "id": "O0040",
+   "store_id": "S26",
+   "tag": "常规补货",
+   "release_min": 20,
+   "lines": [
+    {
+     "sku_id": "K018",
+     "qty": 7,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 6,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K016",
+     "qty": 8,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 1,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 7,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 8,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 8,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 7,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 6,
+     "store_id": "S26"
+    }
+   ]
+  },
+  {
+   "id": "O0043",
+   "store_id": "S28",
+   "tag": "常规补货",
+   "release_min": 21,
+   "lines": [
+    {
+     "sku_id": "K002",
+     "qty": 2,
+     "store_id": "S28"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 2,
+     "store_id": "S28"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 4,
+     "store_id": "S28"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 8,
+     "store_id": "S28"
+    },
+    {
+     "sku_id": "K006",
+     "qty": 2,
+     "store_id": "S28"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 4,
+     "store_id": "S28"
+    }
+   ]
+  },
+  {
+   "id": "O0044",
+   "store_id": "S29",
+   "tag": "常规补货",
+   "release_min": 23,
+   "lines": [
+    {
+     "sku_id": "K016",
+     "qty": 7,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 8,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 3,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K005",
+     "qty": 2,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 8,
+     "store_id": "S29"
+    },
+    {
+     "sku_id": "K006",
+     "qty": 4,
+     "store_id": "S29"
+    }
+   ]
+  },
+  {
+   "id": "O0015",
+   "store_id": "S09",
+   "tag": "常规补货",
+   "release_min": 24,
+   "lines": [
+    {
+     "sku_id": "K006",
+     "qty": 5,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 1,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 2,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 6,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 2,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 5,
+     "store_id": "S09"
+    }
+   ]
+  },
+  {
+   "id": "O0037",
+   "store_id": "S24",
+   "tag": "常规补货",
+   "release_min": 27,
+   "lines": [
+    {
+     "sku_id": "K015",
+     "qty": 3,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 3,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 6,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 2,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 7,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K013",
+     "qty": 3,
+     "store_id": "S24"
+    }
+   ]
+  },
+  {
+   "id": "O0003",
+   "store_id": "S02",
+   "tag": "常规补货",
+   "release_min": 32,
+   "lines": [
+    {
+     "sku_id": "K005",
+     "qty": 4,
+     "store_id": "S02"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 8,
+     "store_id": "S02"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 5,
+     "store_id": "S02"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 3,
+     "store_id": "S02"
+    }
+   ]
+  },
+  {
+   "id": "O0020",
+   "store_id": "S12",
+   "tag": "常规补货",
+   "release_min": 32,
+   "lines": [
+    {
+     "sku_id": "K016",
+     "qty": 1,
+     "store_id": "S12"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 6,
+     "store_id": "S12"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 4,
+     "store_id": "S12"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 1,
+     "store_id": "S12"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 1,
+     "store_id": "S12"
+    }
+   ]
+  },
+  {
+   "id": "O0039",
+   "store_id": "S26",
+   "tag": "常规补货",
+   "release_min": 32,
+   "lines": [
+    {
+     "sku_id": "K001",
+     "qty": 7,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 7,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 2,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 3,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 1,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 1,
+     "store_id": "S26"
+    }
+   ]
+  },
+  {
+   "id": "O0029",
+   "store_id": "S19",
+   "tag": "常规补货",
+   "release_min": 35,
+   "lines": [
+    {
+     "sku_id": "K017",
+     "qty": 8,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 7,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 1,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 5,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 6,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K005",
+     "qty": 2,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K013",
+     "qty": 8,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 1,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 8,
+     "store_id": "S19"
+    }
+   ]
+  },
+  {
+   "id": "O0014",
+   "store_id": "S09",
+   "tag": "常规补货",
+   "release_min": 38,
+   "lines": [
+    {
+     "sku_id": "K005",
+     "qty": 4,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 8,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 3,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 3,
+     "store_id": "S09"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 2,
+     "store_id": "S09"
+    }
+   ]
+  },
+  {
+   "id": "O0023",
+   "store_id": "S14",
+   "tag": "常规补货",
+   "release_min": 40,
+   "lines": [
+    {
+     "sku_id": "K022",
+     "qty": 6,
+     "store_id": "S14"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 7,
+     "store_id": "S14"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 3,
+     "store_id": "S14"
+    }
+   ]
+  },
+  {
+   "id": "O0011",
+   "store_id": "S07",
+   "tag": "常规补货",
+   "release_min": 41,
+   "lines": [
+    {
+     "sku_id": "K001",
+     "qty": 4,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K022",
+     "qty": 1,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K016",
+     "qty": 6,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 5,
+     "store_id": "S07"
+    }
+   ]
+  },
+  {
+   "id": "O0004",
+   "store_id": "S03",
+   "tag": "常规补货",
+   "release_min": 43,
+   "lines": [
+    {
+     "sku_id": "K012",
+     "qty": 4,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 4,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 2,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 3,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 2,
+     "store_id": "S03"
+    },
+    {
+     "sku_id": "K016",
+     "qty": 6,
+     "store_id": "S03"
+    }
+   ]
+  },
+  {
+   "id": "O0018",
+   "store_id": "S11",
+   "tag": "常规补货",
+   "release_min": 44,
+   "lines": [
+    {
+     "sku_id": "K013",
+     "qty": 3,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K006",
+     "qty": 1,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 5,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 7,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 5,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 1,
+     "store_id": "S11"
+    }
+   ]
+  },
+  {
+   "id": "O0021",
+   "store_id": "S13",
+   "tag": "常规补货",
+   "release_min": 48,
+   "lines": [
+    {
+     "sku_id": "K006",
+     "qty": 6,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 3,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 3,
+     "store_id": "S13"
+    }
+   ]
+  },
+  {
+   "id": "O0032",
+   "store_id": "S21",
+   "tag": "常规补货",
+   "release_min": 49,
+   "lines": [
+    {
+     "sku_id": "K011",
+     "qty": 4,
+     "store_id": "S21"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 5,
+     "store_id": "S21"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 6,
+     "store_id": "S21"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 5,
+     "store_id": "S21"
+    }
+   ]
+  },
+  {
+   "id": "O0009",
+   "store_id": "S06",
+   "tag": "常规补货",
+   "release_min": 60,
+   "lines": [
+    {
+     "sku_id": "K015",
+     "qty": 5,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 1,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 1,
+     "store_id": "S06"
+    }
+   ]
+  },
+  {
+   "id": "O0017",
+   "store_id": "S10",
+   "tag": "常规补货",
+   "release_min": 73,
+   "lines": [
+    {
+     "sku_id": "K022",
+     "qty": 5,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 6,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 8,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 4,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 7,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 4,
+     "store_id": "S10"
+    }
+   ]
+  },
+  {
+   "id": "O0046",
+   "store_id": "S30",
+   "tag": "常规补货",
+   "release_min": 73,
+   "lines": [
+    {
+     "sku_id": "K014",
+     "qty": 2,
+     "store_id": "S30"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 4,
+     "store_id": "S30"
+    },
+    {
+     "sku_id": "K005",
+     "qty": 2,
+     "store_id": "S30"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 2,
+     "store_id": "S30"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 7,
+     "store_id": "S30"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 5,
+     "store_id": "S30"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 3,
+     "store_id": "S30"
+    }
+   ]
+  },
+  {
+   "id": "O0012",
+   "store_id": "S08",
+   "tag": "常规补货",
+   "release_min": 74,
+   "lines": [
+    {
+     "sku_id": "K018",
+     "qty": 6,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 8,
+     "store_id": "S08"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 3,
+     "store_id": "S08"
+    }
+   ]
+  },
+  {
+   "id": "O0041",
+   "store_id": "S27",
+   "tag": "常规补货",
+   "release_min": 74,
+   "lines": [
+    {
+     "sku_id": "K018",
+     "qty": 8,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K014",
+     "qty": 5,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 5,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 3,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 2,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 3,
+     "store_id": "S27"
+    }
+   ]
+  },
+  {
+   "id": "O0025",
+   "store_id": "S16",
+   "tag": "常规补货",
+   "release_min": 75,
+   "lines": [
+    {
+     "sku_id": "K013",
+     "qty": 3,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 8,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 6,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 1,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 2,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 6,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 7,
+     "store_id": "S16"
+    }
+   ]
+  },
+  {
+   "id": "O0028",
+   "store_id": "S18",
+   "tag": "常规补货",
+   "release_min": 76,
+   "lines": [
+    {
+     "sku_id": "K001",
+     "qty": 8,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 3,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K013",
+     "qty": 4,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 4,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 8,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 4,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K022",
+     "qty": 4,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 8,
+     "store_id": "S18"
+    }
+   ]
+  },
+  {
+   "id": "O0010",
+   "store_id": "S07",
+   "tag": "常规补货",
+   "release_min": 81,
+   "lines": [
+    {
+     "sku_id": "K016",
+     "qty": 6,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 2,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 8,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 6,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 5,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 4,
+     "store_id": "S07"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 5,
+     "store_id": "S07"
+    }
+   ]
+  },
+  {
+   "id": "O0031",
+   "store_id": "S20",
+   "tag": "常规补货",
+   "release_min": 86,
+   "lines": [
+    {
+     "sku_id": "K003",
+     "qty": 8,
+     "store_id": "S20"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 3,
+     "store_id": "S20"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 6,
+     "store_id": "S20"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 5,
+     "store_id": "S20"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 8,
+     "store_id": "S20"
+    }
+   ]
+  },
+  {
+   "id": "O0033",
+   "store_id": "S22",
+   "tag": "常规补货",
+   "release_min": 86,
+   "lines": [
+    {
+     "sku_id": "K003",
+     "qty": 7,
+     "store_id": "S22"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 2,
+     "store_id": "S22"
+    }
+   ]
+  },
+  {
+   "id": "O0019",
+   "store_id": "S11",
+   "tag": "常规补货",
+   "release_min": 87,
+   "lines": [
+    {
+     "sku_id": "K020",
+     "qty": 4,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 8,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 8,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 1,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K005",
+     "qty": 6,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 1,
+     "store_id": "S11"
+    },
+    {
+     "sku_id": "K006",
+     "qty": 8,
+     "store_id": "S11"
+    }
+   ]
+  },
+  {
+   "id": "O0001",
+   "store_id": "S01",
+   "tag": "常规补货",
+   "release_min": 88,
+   "lines": [
+    {
+     "sku_id": "K016",
+     "qty": 6,
+     "store_id": "S01"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 1,
+     "store_id": "S01"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 6,
+     "store_id": "S01"
+    }
+   ]
+  },
+  {
+   "id": "O0008",
+   "store_id": "S06",
+   "tag": "常规补货",
+   "release_min": 95,
+   "lines": [
+    {
+     "sku_id": "K011",
+     "qty": 4,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 1,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K013",
+     "qty": 8,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 6,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K005",
+     "qty": 6,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 6,
+     "store_id": "S06"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 7,
+     "store_id": "S06"
+    }
+   ]
+  },
+  {
+   "id": "O0022",
+   "store_id": "S13",
+   "tag": "常规补货",
+   "release_min": 96,
+   "lines": [
+    {
+     "sku_id": "K018",
+     "qty": 5,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 5,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K005",
+     "qty": 8,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K022",
+     "qty": 7,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 8,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 5,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 6,
+     "store_id": "S13"
+    }
+   ]
+  },
+  {
+   "id": "O0034",
+   "store_id": "S23",
+   "tag": "常规补货",
+   "release_min": 98,
+   "lines": [
+    {
+     "sku_id": "K002",
+     "qty": 7,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 3,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K006",
+     "qty": 6,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 6,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 5,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 5,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 8,
+     "store_id": "S23"
+    }
+   ]
+  },
+  {
+   "id": "O0016",
+   "store_id": "S10",
+   "tag": "常规补货",
+   "release_min": 99,
+   "lines": [
+    {
+     "sku_id": "K016",
+     "qty": 4,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 5,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K011",
+     "qty": 8,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 8,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 7,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 6,
+     "store_id": "S10"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 7,
+     "store_id": "S10"
+    }
+   ]
+  },
+  {
+   "id": "O0027",
+   "store_id": "S17",
+   "tag": "常规补货",
+   "release_min": 106,
+   "lines": [
+    {
+     "sku_id": "K004",
+     "qty": 4,
+     "store_id": "S17"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 3,
+     "store_id": "S17"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 7,
+     "store_id": "S17"
+    },
+    {
+     "sku_id": "K009",
+     "qty": 8,
+     "store_id": "S17"
+    },
+    {
+     "sku_id": "K022",
+     "qty": 7,
+     "store_id": "S17"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 7,
+     "store_id": "S17"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 7,
+     "store_id": "S17"
+    }
+   ]
+  },
+  {
+   "id": "O0042",
+   "store_id": "S27",
+   "tag": "常规补货",
+   "release_min": 110,
+   "lines": [
+    {
+     "sku_id": "K018",
+     "qty": 1,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 3,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 4,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 6,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 5,
+     "store_id": "S27"
+    }
+   ]
+  },
+  {
+   "id": "O0030",
+   "store_id": "S19",
+   "tag": "常规补货",
+   "release_min": 113,
+   "lines": [
+    {
+     "sku_id": "K001",
+     "qty": 5,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K010",
+     "qty": 6,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K012",
+     "qty": 3,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K016",
+     "qty": 1,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 6,
+     "store_id": "S19"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 4,
+     "store_id": "S19"
+    }
+   ]
+  },
+  {
+   "id": "O0035",
+   "store_id": "S23",
+   "tag": "常规补货",
+   "release_min": 114,
+   "lines": [
+    {
+     "sku_id": "K021",
+     "qty": 1,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K019",
+     "qty": 2,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 1,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 6,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K006",
+     "qty": 1,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K008",
+     "qty": 8,
+     "store_id": "S23"
+    },
+    {
+     "sku_id": "K007",
+     "qty": 3,
+     "store_id": "S23"
+    }
+   ]
+  },
+  {
+   "id": "O0007",
+   "store_id": "S05",
+   "tag": "常规补货",
+   "release_min": 117,
+   "lines": [
+    {
+     "sku_id": "K012",
+     "qty": 8,
+     "store_id": "S05"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 4,
+     "store_id": "S05"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 6,
+     "store_id": "S05"
+    },
+    {
+     "sku_id": "K017",
+     "qty": 5,
+     "store_id": "S05"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 3,
+     "store_id": "S05"
+    },
+    {
+     "sku_id": "K015",
+     "qty": 2,
+     "store_id": "S05"
+    }
+   ]
+  },
+  {
+   "id": "O0051",
+   "store_id": "S24",
+   "tag": "电商即时",
+   "release_min": 121,
+   "lines": [
+    {
+     "sku_id": "K023",
+     "qty": 4,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 1,
+     "store_id": "S24"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 3,
+     "store_id": "S24"
+    }
+   ]
+  },
+  {
+   "id": "O0053",
+   "store_id": "S17",
+   "tag": "电商即时",
+   "release_min": 164,
+   "lines": [
+    {
+     "sku_id": "K002",
+     "qty": 4,
+     "store_id": "S17"
+    }
+   ]
+  },
+  {
+   "id": "O0054",
+   "store_id": "S03",
+   "tag": "电商即时",
+   "release_min": 168,
+   "lines": [
+    {
+     "sku_id": "K022",
+     "qty": 4,
+     "store_id": "S03"
+    }
+   ]
+  },
+  {
+   "id": "O0056",
+   "store_id": "S18",
+   "tag": "电商即时",
+   "release_min": 172,
+   "lines": [
+    {
+     "sku_id": "K020",
+     "qty": 1,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 2,
+     "store_id": "S18"
+    }
+   ]
+  },
+  {
+   "id": "O0047",
+   "store_id": "S16",
+   "tag": "电商即时",
+   "release_min": 224,
+   "lines": [
+    {
+     "sku_id": "K023",
+     "qty": 1,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 4,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 1,
+     "store_id": "S16"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 2,
+     "store_id": "S16"
+    }
+   ]
+  },
+  {
+   "id": "O0067",
+   "store_id": "S15",
+   "tag": "紧急要货",
+   "release_min": 228,
+   "lines": [
+    {
+     "sku_id": "K018",
+     "qty": 3,
+     "store_id": "S15"
+    }
+   ]
+  },
+  {
+   "id": "O0062",
+   "store_id": "S01",
+   "tag": "电商即时",
+   "release_min": 229,
+   "lines": [
+    {
+     "sku_id": "K023",
+     "qty": 1,
+     "store_id": "S01"
+    }
+   ]
+  },
+  {
+   "id": "O0055",
+   "store_id": "S18",
+   "tag": "电商即时",
+   "release_min": 239,
+   "lines": [
+    {
+     "sku_id": "K020",
+     "qty": 3,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 1,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 2,
+     "store_id": "S18"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 1,
+     "store_id": "S18"
+    }
+   ]
+  },
+  {
+   "id": "O0060",
+   "store_id": "S02",
+   "tag": "电商即时",
+   "release_min": 262,
+   "lines": [
+    {
+     "sku_id": "K001",
+     "qty": 1,
+     "store_id": "S02"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 1,
+     "store_id": "S02"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 2,
+     "store_id": "S02"
+    }
+   ]
+  },
+  {
+   "id": "O0061",
+   "store_id": "S04",
+   "tag": "电商即时",
+   "release_min": 326,
+   "lines": [
+    {
+     "sku_id": "K023",
+     "qty": 3,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 3,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 1,
+     "store_id": "S04"
+    }
+   ]
+  },
+  {
+   "id": "O0066",
+   "store_id": "S13",
+   "tag": "紧急要货",
+   "release_min": 387,
+   "lines": [
+    {
+     "sku_id": "K010",
+     "qty": 1,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K018",
+     "qty": 2,
+     "store_id": "S13"
+    }
+   ]
+  },
+  {
+   "id": "O0049",
+   "store_id": "S26",
+   "tag": "电商即时",
+   "release_min": 395,
+   "lines": [
+    {
+     "sku_id": "K022",
+     "qty": 2,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 4,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K004",
+     "qty": 1,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 3,
+     "store_id": "S26"
+    }
+   ]
+  },
+  {
+   "id": "O0050",
+   "store_id": "S25",
+   "tag": "电商即时",
+   "release_min": 427,
+   "lines": [
+    {
+     "sku_id": "K024",
+     "qty": 1,
+     "store_id": "S25"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 3,
+     "store_id": "S25"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 3,
+     "store_id": "S25"
+    }
+   ]
+  },
+  {
+   "id": "O0048",
+   "store_id": "S27",
+   "tag": "电商即时",
+   "release_min": 493,
+   "lines": [
+    {
+     "sku_id": "K023",
+     "qty": 2,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 3,
+     "store_id": "S27"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 2,
+     "store_id": "S27"
+    }
+   ]
+  },
+  {
+   "id": "O0052",
+   "store_id": "S13",
+   "tag": "电商即时",
+   "release_min": 516,
+   "lines": [
+    {
+     "sku_id": "K023",
+     "qty": 2,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 4,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K020",
+     "qty": 4,
+     "store_id": "S13"
+    },
+    {
+     "sku_id": "K021",
+     "qty": 4,
+     "store_id": "S13"
+    }
+   ]
+  },
+  {
+   "id": "O0058",
+   "store_id": "S04",
+   "tag": "电商即时",
+   "release_min": 537,
+   "lines": [
+    {
+     "sku_id": "K020",
+     "qty": 4,
+     "store_id": "S04"
+    },
+    {
+     "sku_id": "K001",
+     "qty": 3,
+     "store_id": "S04"
+    }
+   ]
+  },
+  {
+   "id": "O0059",
+   "store_id": "S04",
+   "tag": "电商即时",
+   "release_min": 586,
+   "lines": [
+    {
+     "sku_id": "K022",
+     "qty": 2,
+     "store_id": "S04"
+    }
+   ]
+  },
+  {
+   "id": "O0057",
+   "store_id": "S26",
+   "tag": "电商即时",
+   "release_min": 593,
+   "lines": [
+    {
+     "sku_id": "K020",
+     "qty": 4,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K024",
+     "qty": 2,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K023",
+     "qty": 3,
+     "store_id": "S26"
+    },
+    {
+     "sku_id": "K002",
+     "qty": 3,
+     "store_id": "S26"
+    }
+   ]
+  },
+  {
+   "id": "O0063",
+   "store_id": "S28",
+   "tag": "紧急要货",
+   "release_min": 652,
+   "lines": [
+    {
+     "sku_id": "K010",
+     "qty": 1,
+     "store_id": "S28"
+    },
+    {
+     "sku_id": "K003",
+     "qty": 3,
+     "store_id": "S28"
+    }
+   ]
+  },
+  {
+   "id": "O0064",
+   "store_id": "S10",
+   "tag": "紧急要货",
+   "release_min": 654,
+   "lines": [
+    {
+     "sku_id": "K015",
+     "qty": 1,
+     "store_id": "S10"
+    }
+   ]
+  }
+ ],
+ "sku_lib": [
+  {
+   "id": "K001",
+   "name": "感冒灵颗粒(盒)",
+   "l": 120,
+   "w": 80,
+   "h": 60,
+   "weight_g": 65,
+   "fragile": 0,
+   "max_stack": 8,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "口服药"
+  },
+  {
+   "id": "K002",
+   "name": "维生素C片(瓶)",
+   "l": 60,
+   "w": 60,
+   "h": 110,
+   "weight_g": 120,
+   "fragile": 0,
+   "max_stack": 6,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "保健品"
+  },
+  {
+   "id": "K003",
+   "name": "阿莫西林胶囊(盒)",
+   "l": 110,
+   "w": 75,
+   "h": 55,
+   "weight_g": 55,
+   "fragile": 0,
+   "max_stack": 8,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "处方药"
+  },
+  {
+   "id": "K004",
+   "name": "布洛芬缓释(盒)",
+   "l": 130,
+   "w": 85,
+   "h": 60,
+   "weight_g": 70,
+   "fragile": 0,
+   "max_stack": 8,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "口服药"
+  },
+  {
+   "id": "K005",
+   "name": "降压药(盒)",
+   "l": 100,
+   "w": 70,
+   "h": 50,
+   "weight_g": 48,
+   "fragile": 0,
+   "max_stack": 8,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "慢病药"
+  },
+  {
+   "id": "K006",
+   "name": "降糖药(盒)",
+   "l": 100,
+   "w": 70,
+   "h": 50,
+   "weight_g": 52,
+   "fragile": 0,
+   "max_stack": 8,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "慢病药"
+  },
+  {
+   "id": "K007",
+   "name": "止咳糖浆(瓶)",
+   "l": 80,
+   "w": 80,
+   "h": 180,
+   "weight_g": 340,
+   "fragile": 1,
+   "max_stack": 4,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "液体制剂"
+  },
+  {
+   "id": "K008",
+   "name": "碘伏消毒液(瓶)",
+   "l": 75,
+   "w": 75,
+   "h": 150,
+   "weight_g": 260,
+   "fragile": 1,
+   "max_stack": 4,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "外用"
+  },
+  {
+   "id": "K009",
+   "name": "生理盐水(瓶)",
+   "l": 90,
+   "w": 90,
+   "h": 220,
+   "weight_g": 560,
+   "fragile": 1,
+   "max_stack": 3,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "输液"
+  },
+  {
+   "id": "K010",
+   "name": "玻璃体温计(盒)",
+   "l": 180,
+   "w": 40,
+   "h": 25,
+   "weight_g": 45,
+   "fragile": 2,
+   "max_stack": 0,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "器械"
+  },
+  {
+   "id": "K011",
+   "name": "试剂瓶(盒)",
+   "l": 150,
+   "w": 100,
+   "h": 120,
+   "weight_g": 480,
+   "fragile": 2,
+   "max_stack": 0,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "检验"
+  },
+  {
+   "id": "K012",
+   "name": "口服液玻璃瓶(箱)",
+   "l": 200,
+   "w": 150,
+   "h": 160,
+   "weight_g": 1250,
+   "fragile": 2,
+   "max_stack": 1,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "液体制剂"
+  },
+  {
+   "id": "K013",
+   "name": "制氧机(台)",
+   "l": 420,
+   "w": 260,
+   "h": 520,
+   "weight_g": 9800,
+   "fragile": 1,
+   "max_stack": 2,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "器械"
+  },
+  {
+   "id": "K014",
+   "name": "轮椅(台)",
+   "l": 980,
+   "w": 300,
+   "h": 880,
+   "weight_g": 12500,
+   "fragile": 0,
+   "max_stack": 1,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "器械"
+  },
+  {
+   "id": "K015",
+   "name": "电子血压计(盒)",
+   "l": 180,
+   "w": 140,
+   "h": 100,
+   "weight_g": 480,
+   "fragile": 1,
+   "max_stack": 4,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "器械"
+  },
+  {
+   "id": "K016",
+   "name": "雾化器(台)",
+   "l": 220,
+   "w": 180,
+   "h": 260,
+   "weight_g": 1600,
+   "fragile": 1,
+   "max_stack": 3,
+   "can_rotate": false,
+   "cold_chain": false,
+   "category": "器械"
+  },
+  {
+   "id": "K017",
+   "name": "胰岛素笔(盒)",
+   "l": 150,
+   "w": 100,
+   "h": 60,
+   "weight_g": 180,
+   "fragile": 1,
+   "max_stack": 5,
+   "can_rotate": true,
+   "cold_chain": true,
+   "category": "冷链"
+  },
+  {
+   "id": "K018",
+   "name": "疫苗冷藏盒",
+   "l": 260,
+   "w": 180,
+   "h": 160,
+   "weight_g": 1450,
+   "fragile": 1,
+   "max_stack": 3,
+   "can_rotate": false,
+   "cold_chain": true,
+   "category": "冷链"
+  },
+  {
+   "id": "K019",
+   "name": "益生菌(盒)",
+   "l": 120,
+   "w": 90,
+   "h": 80,
+   "weight_g": 210,
+   "fragile": 1,
+   "max_stack": 5,
+   "can_rotate": true,
+   "cold_chain": true,
+   "category": "冷链"
+  },
+  {
+   "id": "K020",
+   "name": "医用口罩(箱)",
+   "l": 400,
+   "w": 300,
+   "h": 220,
+   "weight_g": 2400,
+   "fragile": 0,
+   "max_stack": 6,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "耗材"
+  },
+  {
+   "id": "K021",
+   "name": "纱布绷带(箱)",
+   "l": 350,
+   "w": 260,
+   "h": 200,
+   "weight_g": 1800,
+   "fragile": 0,
+   "max_stack": 6,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "耗材"
+  },
+  {
+   "id": "K022",
+   "name": "注射器(箱)",
+   "l": 380,
+   "w": 280,
+   "h": 180,
+   "weight_g": 2100,
+   "fragile": 0,
+   "max_stack": 5,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "耗材"
+  },
+  {
+   "id": "K023",
+   "name": "创可贴(盒)",
+   "l": 140,
+   "w": 100,
+   "h": 70,
+   "weight_g": 150,
+   "fragile": 0,
+   "max_stack": 8,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "耗材"
+  },
+  {
+   "id": "K024",
+   "name": "消毒棉签(盒)",
+   "l": 160,
+   "w": 110,
+   "h": 90,
+   "weight_g": 190,
+   "fragile": 0,
+   "max_stack": 8,
+   "can_rotate": true,
+   "cold_chain": false,
+   "category": "耗材"
+  }
+ ]
+}

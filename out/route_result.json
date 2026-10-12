@@ -1,0 +1,98 @@
+{
+ "静态口径": {
+  "基线": {
+   "车辆使用数": 5,
+   "总里程_km": 379.09,
+   "总成本_元": 2263.41,
+   "迟到总分钟": 0.0,
+   "未服务门店": 0,
+   "不可行项": 0
+  },
+  "算法": {
+   "车辆使用数": 2,
+   "总里程_km": 397.61,
+   "总成本_元": 1335.82,
+   "迟到总分钟": 0.0,
+   "未服务门店": 0,
+   "不可行项": 0
+  }
+ },
+ "动态要货": {
+  "waves": [
+   {
+    "wave_id": 1,
+    "dispatch_time_min": 120.0,
+    "orders": 47,
+    "vehicles": 2,
+    "new_stores": 30,
+    "cost_元": 1304.54,
+    "km": 379.74,
+    "late_min": 0.0,
+    "notes": "合并待派 47 单 / 新到 47 单"
+   },
+   {
+    "wave_id": 2,
+    "dispatch_time_min": 240.0,
+    "orders": 8,
+    "vehicles": 1,
+    "new_stores": 7,
+    "cost_元": 312.62,
+    "km": 102.01,
+    "late_min": 0.0,
+    "notes": "合并待派 8 单 / 新到 8 单"
+   },
+   {
+    "wave_id": 3,
+    "dispatch_time_min": 360.0,
+    "orders": 2,
+    "vehicles": 1,
+    "new_stores": 2,
+    "cost_元": 242.25,
+    "km": 47.89,
+    "late_min": 0.0,
+    "notes": "合并待派 2 单 / 新到 2 单"
+   },
+   {
+    "wave_id": 4,
+    "dispatch_time_min": 480.0,
+    "orders": 3,
+    "vehicles": 1,
+    "new_stores": 3,
+    "cost_元": 276.31,
+    "km": 74.09,
+    "late_min": 0.0,
+    "notes": "合并待派 3 单 / 新到 3 单"
+   },
+   {
+    "wave_id": 5,
+    "dispatch_time_min": 600.0,
+    "orders": 5,
+    "vehicles": 1,
+    "new_stores": 4,
+    "cost_元": 315.61,
+    "km": 104.31,
+    "late_min": 0.0,
+    "notes": "合并待派 5 单 / 新到 5 单"
+   },
+   {
+    "wave_id": 6,
+    "dispatch_time_min": 720.0,
+    "orders": 2,
+    "vehicles": 1,
+    "new_stores": 2,
+    "cost_元": 278.26,
+    "km": 75.59,
+    "late_min": 0.0,
+    "notes": "合并待派 2 单 / 新到 2 单"
+   }
+  ],
+  "summary": {
+   "波次数": 6,
+   "总发车台次": 7,
+   "总里程_km": 783.63,
+   "总成本_元": 2729.59,
+   "总迟到_分钟": 0.0,
+   "已派订单": 67
+  }
+ }
+}

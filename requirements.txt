@@ -1,0 +1,5 @@
+# 运行环境：Python 3.11+
+# 仅精确验证层（src/route/milp_verify.py）需要下列两个包；
+# 其余模块与全部自证脚本只用标准库。
+numpy>=1.26
+scipy>=1.11
